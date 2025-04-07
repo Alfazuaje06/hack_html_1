@@ -1,0 +1,25 @@
+html,body {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    height: 100px;
+    background-color:#93B5C9;
+}
+
+.container2 {
+    height: 250px;
+    background-color:#AB2849;
+}
+.container3 {
+    height: 100px;
+    margin-left: 450px;
+    background-color:#AB2849;
+}
+.container4 {
+    height: 100px;
+    background-color:#AB2849;
+    width: 95%;
+  margin: auto;
+
+}
